@@ -1,0 +1,5 @@
+com/cmcaviar/micro/inventoryservice/repository/InventoryRepository.class
+com/cmcaviar/micro/inventoryservice/InventoryServiceApplication.class
+com/cmcaviar/micro/inventoryservice/controller/InventoryController.class
+com/cmcaviar/micro/inventoryservice/model/Inventory.class
+com/cmcaviar/micro/inventoryservice/service/InventoryService.class

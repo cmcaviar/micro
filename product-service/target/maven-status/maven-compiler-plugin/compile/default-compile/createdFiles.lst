@@ -1,0 +1,10 @@
+com/cmcaviar/micro/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/cmcaviar/micro/productservice/repository/ProductRepository.class
+com/cmcaviar/micro/productservice/ProductServiceApplication.class
+com/cmcaviar/micro/productservice/service/ProductService.class
+com/cmcaviar/micro/productservice/dto/ProductResponse.class
+com/cmcaviar/micro/productservice/controller/ProductController.class
+com/cmcaviar/micro/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/cmcaviar/micro/productservice/model/Product.class
+com/cmcaviar/micro/productservice/dto/ProductRequest.class
+com/cmcaviar/micro/productservice/model/Product$ProductBuilder.class

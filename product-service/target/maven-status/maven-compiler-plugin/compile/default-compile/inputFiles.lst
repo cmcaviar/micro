@@ -1,0 +1,7 @@
+/Users/kirill/IdeaProjects/microservices-new/product-service/src/main/java/com/cmcaviar/micro/productservice/dto/ProductRequest.java
+/Users/kirill/IdeaProjects/microservices-new/product-service/src/main/java/com/cmcaviar/micro/productservice/controller/ProductController.java
+/Users/kirill/IdeaProjects/microservices-new/product-service/src/main/java/com/cmcaviar/micro/productservice/service/ProductService.java
+/Users/kirill/IdeaProjects/microservices-new/product-service/src/main/java/com/cmcaviar/micro/productservice/model/Product.java
+/Users/kirill/IdeaProjects/microservices-new/product-service/src/main/java/com/cmcaviar/micro/productservice/repository/ProductRepository.java
+/Users/kirill/IdeaProjects/microservices-new/product-service/src/main/java/com/cmcaviar/micro/productservice/ProductServiceApplication.java
+/Users/kirill/IdeaProjects/microservices-new/product-service/src/main/java/com/cmcaviar/micro/productservice/dto/ProductResponse.java
